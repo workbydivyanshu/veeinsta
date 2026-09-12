@@ -1,0 +1,9 @@
+# VeeInsta — never publish secrets or build artifacts
+veeinsta.keystore
+KEYSTORE-NOTES.md
+ag-src/
+out/
+scratch-tmp/
+*-mission.md
+*.apk
+*.idsig
