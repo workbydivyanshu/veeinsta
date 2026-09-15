@@ -7,3 +7,4 @@ scratch-tmp/
 *-mission.md
 *.apk
 *.idsig
+.omo/
