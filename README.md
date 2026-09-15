@@ -1,6 +1,6 @@
 # VeeInsta
 
-Privacy-hardened Instagram mod. Base: AGInsta v12.50 / IG 439.0.0.37.89.
+Privacy-hardened Instagram mod. Base: AGInsta v12.55 / IG 439.0.0.37.89. See CHANGELOG.md for version history.
 
 ## Features
 
